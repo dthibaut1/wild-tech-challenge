@@ -1,1 +1,1 @@
-# wild-tech-challenge
+# Wild Tech Challenge
